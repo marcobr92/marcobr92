@@ -1,4 +1,5 @@
-## Hi there 👋
+![Banner](https://raw.githubusercontent.com/marcobr92/marcobr92/main/assets/hello.gif)
+## Hello there.
 
 <!--
 **marcobr92/marcobr92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
